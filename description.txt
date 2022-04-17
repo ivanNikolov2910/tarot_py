@@ -1,0 +1,22 @@
+0#The Fool#Someting new#A problem with starting something new
+1#The Magician#The faith is yours#You do not believe in yourself
+2#The High Priestess#A guardian, someone with good intention#Our bad intention
+3#The Empress#For women-promise marriage#For men-a woman or a strong union
+4#The Emperor#Listen the old once#A problem with the power
+5#The Hierophant#Well-established set of ideals#Find yourself
+6#The Lovers#Just love or friendship#Laziness
+7#The Chariot#Do not listen the others#True fear of something(someone)
+8#Strength#It will happen the hard way#You have been in an unpleasant situation for a long time
+9#The Hermit#Need a long period of being with yourself#internal conflict (needs / desires)
+10#The Wheel Of Fortune#The luck is at your side#You are in a loop, no way to escape
+11#Justice#Something/Someone that is under your skin#deceived, betrayed, hurt
+12#The Hangman#Look from another point#You cannot win but still trying
+13#Death#Something bad, that will hurt you#A new period with new possibilities
+14#Temperance#A new dawn, hope and balance# A union is broken
+15#The Devil#Literaly the Devil#You are able to beat the devil
+16#The Tower#A hard change, that can destroy your sanity#Something will born a lot new questions with no answer
+17#The Star#Something good will happen#A wrong way of thinking
+18#The Moon#You are mistaken in something/someone#Paranoia and fears that you instill in yourself
+19#The Sun#Rationality, always means something good#You overdo it with something you like
+20#Judgement#А sign of destiny or a friend#Stop blaming yourself for something old
+21#The World#Something new but in a global way#You are out of your skin
